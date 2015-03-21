@@ -26,3 +26,4 @@ Test Coverage Status
 .. image:: https://coveralls.io/repos/tardis-sn/tardis/badge.png
   :target: https://coveralls.io/r/tardis-sn/tardis
 
+Nilmadhab, first pull request
